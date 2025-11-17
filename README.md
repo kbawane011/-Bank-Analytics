@@ -32,14 +32,14 @@ KPIs used:
 <img width="1329" height="602" alt="Screenshot 2025-11-10 222255" src="https://github.com/user-attachments/assets/26181ec9-abe8-410e-a323-e37e38d2e950" />
 
 
-### **Tableau Credit–Debit Dashboard**
-
-<img width="1905" height="988" alt="Screenshot 2025-11-10 222119" src="https://github.com/user-attachments/assets/78b200fb-aa84-4418-b97a-d5dda8d18e55" />
-
-
 ### **Power BI Credit–Debit Dashboard**
 
 <img width="1283" height="719" alt="Screenshot 2025-11-10 223009" src="https://github.com/user-attachments/assets/4c38d52d-53a9-4cd7-acfc-803ad857e6d7" />
+
+
+### **Tableau Credit–Debit Dashboard**
+
+<img width="1905" height="988" alt="Screenshot 2025-11-10 222119" src="https://github.com/user-attachments/assets/78b200fb-aa84-4418-b97a-d5dda8d18e55" />
 
 
 ## **2️⃣ Loan Performance Dashboards**
