@@ -29,19 +29,18 @@ KPIs used:
 
 ### **Excel Credit–Debit Dashboard**
 
-<img width="1329" height="602" alt="Screenshot 2025-11-10 222255" src="https://github.com/user-attachments/assets/fbf85a64-d8f2-424b-9851-53077369e84c" />
+<img width="1329" height="602" alt="Screenshot 2025-11-10 222255" src="https://github.com/user-attachments/assets/26181ec9-abe8-410e-a323-e37e38d2e950" />
 
 
 ### **Tableau Credit–Debit Dashboard**
 
-<img width="1905" height="988" alt="Screenshot 2025-11-10 222119" src="https://github.com/user-attachments/assets/6e5613fd-58bc-4902-9bf8-ec737b8c3b9e" />
+<img width="1905" height="988" alt="Screenshot 2025-11-10 222119" src="https://github.com/user-attachments/assets/78b200fb-aa84-4418-b97a-d5dda8d18e55" />
 
 
 ### **Power BI Credit–Debit Dashboard**
 
-<img width="1283" height="719" alt="Screenshot 2025-11-10 223009" src="https://github.com/user-attachments/assets/158a86c0-9c8e-45c8-a605-769894f00fc9" />
+<img width="1283" height="719" alt="Screenshot 2025-11-10 223009" src="https://github.com/user-attachments/assets/4c38d52d-53a9-4cd7-acfc-803ad857e6d7" />
 
----
 
 ## **2️⃣ Loan Performance Dashboards**
 
@@ -57,9 +56,8 @@ KPIs used:
 
 ### 📸 **Project Screenshots** 
 
-<img width="1247" height="602" alt="Screenshot 2025-11-17 160144" src="https://github.com/user-attachments/assets/bea1a2a3-7d01-4522-b06e-2088fcebb290" />
+<img width="1247" height="602" alt="Screenshot 2025-11-17 160144" src="https://github.com/user-attachments/assets/678bfa9b-bc1d-4aa2-8b47-79130004d2ca" />
 
----
 
 ### **Power BI Loan Dashboard**
 
@@ -73,9 +71,9 @@ KPIs used:
 
 ### 📸 **Project Screenshots**
 
-<img width="1270" height="711" alt="Screenshot 2025-11-17 160541" src="https://github.com/user-attachments/assets/31e98d10-f225-44ad-a9e3-a101b68d247b" />
+<img width="1270" height="711" alt="Screenshot 2025-11-17 160541" src="https://github.com/user-attachments/assets/3f36b3e2-16a9-4d24-b01a-fe9adc31c9a8" />
 
-<img width="1261" height="702" alt="Screenshot 2025-11-17 160600" src="https://github.com/user-attachments/assets/c0ae4797-a316-4b9d-b0e1-073747fb1d0b" />
+<img width="1261" height="702" alt="Screenshot 2025-11-17 160600" src="https://github.com/user-attachments/assets/5a0cb7a6-6758-4275-80ee-2af0fff09e7d" />
 
 ---
 
@@ -90,7 +88,7 @@ KPIs used:
 
 ### 📸 **Project Screenshots**
 
-<img width="1917" height="984" alt="Screenshot 2025-11-17 160712" src="https://github.com/user-attachments/assets/85b29ab2-781d-4523-b08f-2c85a1153cb3" />
+<img width="1917" height="984" alt="Screenshot 2025-11-17 160712" src="https://github.com/user-attachments/assets/30a74562-5d14-41b6-ac88-6544722738c1" />
 
 ---
 
