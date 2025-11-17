@@ -42,7 +42,7 @@ KPIs used:
 <img width="1905" height="988" alt="Screenshot 2025-11-10 222119" src="https://github.com/user-attachments/assets/78b200fb-aa84-4418-b97a-d5dda8d18e55" />
 
 
-## **2️⃣ Loan Performance Dashboards**
+## **2️⃣ Loan Performance Dashboards (Excel + Tableau + Power BI)**
 
 ### **Excel Loan Risk Dashboard**
 
@@ -113,7 +113,6 @@ KPIs used:
 | **Tableau**    | Visualizing loan performance & trends          |
 | **Power BI**   | Advanced dashboarding for loans & transactions |
 | **CSV/Excel**  | Input datasets                                 |
-| **PowerPoint** | Presentation for final submission              |
 
 ---
 
