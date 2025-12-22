@@ -210,4 +210,12 @@ The dataset consists of multiple tables:
     Tableau_Loan.twbx
 README.md
 ```
+---
+
+## 👤 Author
+
+**Kiran Bawane**
+📍 Aspiring Data Analyst
+
+
 
