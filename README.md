@@ -81,7 +81,7 @@ Maps | Bar Charts | Trend Graphs | Demographic Distribution | Filters
 
 ### **Tableau Bank Loan Analysis Dashboard**
 
-<img width="1917" height="984" alt="Screenshot 2025-11-17 160712" src="https://github.com/user-attachments/assets/30a74562-5d14-41b6-ac88-6544722738c1" />
+<img width="1918" height="999" alt="image" src="https://github.com/user-attachments/assets/5552d26f-d050-40e7-b14a-2f9fd30a1785" />
 
 ---
 ## 🚀 Skills Demonstrated
