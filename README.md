@@ -5,7 +5,36 @@
 This project involves analysis of banking data to understand **credit/debit patterns, loan distribution, customer demographics, recovery performance, and financial insights**. Two dashboards were developed to present insights from two different datasets.
 
 ---
+## 🔹 1. Credit & Debit Financial Dashboard (Excel)
 
+### 🎯 Objective
+
+Build an interactive Excel dashboard to analyze debit and credit transactions, track financial performance, and generate business insights through dynamic reporting.
+
+### 📊 Key Metrics
+
+* Total Transactions
+* Total Debit Amount
+* Total Credit Amount
+* Net Balance
+* Average Transaction Amount
+* Branch-wise Performance
+
+### 📈 Visualizations Used
+
+* KPI Cards
+* Line Chart (Transaction Trend)
+* Pie Chart (Debit vs Credit Split)
+* Bar/Column Charts
+* Pivot Tables & Pivot Charts
+* Slicers for Interactive Filtering
+
+### 🛠️ Tools
+
+Excel, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Dashboard Design.
+                              
+                                ##  OR
+                             
 ## 🔹 1. Credit & Debit Financial Dashboard (Power BI)
 
 **Objective:**
@@ -68,12 +97,16 @@ Maps | Bar Charts | Trend Graphs | Demographic Distribution | Filters
 
 | File                                   | Description                  |
 | -------------------------------------- | ---------------------------- |
+| Debit & Credit Dashboard (Excel)       | .xlsx file                   |
 | Debit & Credit Dashboard (Power BI)    | .pbix file                   |
 | Bank Loan Analysis Dashboard (Tableau) | .twbx file                   |
 | Cleaned Dataset                        | Excel files                  |
 
 ---
 # 📸 **Dashboard Previews**
+
+### **Excel Credit–Debit Dashboard**
+<img width="1177" height="527" alt="image" src="https://github.com/user-attachments/assets/3afb95c8-470a-4e2a-8f86-d168abc084e7" />
 
 ### **Power BI Credit–Debit Dashboard**
 
@@ -88,7 +121,7 @@ Maps | Bar Charts | Trend Graphs | Demographic Distribution | Filters
 
 * Data Cleaning (Excel)
 * Data Modelling & DAX (Power BI)
-* Visualization & Storytelling (Power BI, Tableau)
+* Visualization & Storytelling (Excel,Power BI, Tableau)
 * Banking & Finance Data Understanding
 * Dashboard Designing | KPI Creation
 
